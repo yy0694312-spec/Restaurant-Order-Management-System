@@ -4,12 +4,17 @@ A Python 3 console application for managing restaurant orders by table.
 A waiter can select a table, add one or more menu items, view the
 running order, and generate a final bill with service charge and GST.
 
-## Project Details
 
--   **Project Serial Number:** 36
--   **Project Title:** Restaurant Order Management System
--   **Language:** Python 3
--   **Concepts:** Lists, Dictionaries, Loops, and Billing
+## Project Details
+- **Project Number:** 36
+- **Language:** Python 3
+- **Developer:** Yash Kumar
+- **ERP:** RU-26-02406
+
+## Project Mentor
+- **Mentored by:** Mr. Satyaprakash Sethy(https://github.com/SATYAPRAKASHSETHY)
+- **Github:** @SATYAPRAKASHSETHY(https://github.com/SATYAPRAKASHSETHY)
+- **Role:** Python Mentor/ Technical Guide
 
 ## Problem Statement
 
